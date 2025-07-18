@@ -1,0 +1,1 @@
+Developed a responsive e-commerce website for Printastic, featuring a product catalog for printers with pricing and order functionality. Utilized HTML for structure, CSS for styling, and JavaScript for interactivity, ensuring a user-friendly experience.
